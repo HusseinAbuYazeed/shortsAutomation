@@ -8,9 +8,12 @@ A few hours passed and nothing had changed. Their hunger and thirst only made ev
 For once, they had their ship, lighting up the surroundings. They entered the rusty craft, with little of their sanity left. They start up the engines and switch on the systems taking off from the moon. They hope to never return. The surface grows smaller and smaller, drifting away from the capsule. Their sanity makes them believe that they are headed for earth. But belief was all that remained. Them and their capsule drifts into the black, never to be seen ever again.
 """
 
+# Change this to "gemini" to test the Gemini TTS provider instead.
+tts_provider = "gemini"
+
 response = requests.post(
     "http://127.0.0.1:8000/generate",
-    json={"story_text": story},
+    json={"story_text": story, "tts_provider": tts_provider},
 )
 
 print("Status code:", response.status_code)
