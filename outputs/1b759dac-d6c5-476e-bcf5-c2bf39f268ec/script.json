@@ -1,0 +1,78 @@
+{
+    "analysis": {
+        "premise": "A poem describing how one can admire and feel warmth from the sun from afar, but cannot embrace it back without burning, serving as an allegory for unrequited love based on personal experience.",
+        "characters": [
+            {
+                "name": "Narrator / Author",
+                "role": "Person sharing a personal experience of unrequited love through poetry."
+            },
+            {
+                "name": "The Sun",
+                "role": "Subject of observation that provides warmth and light from afar, but burns anyone who attempts to embrace it back."
+            }
+        ],
+        "setting": null,
+        "main_conflict": "The observer can feel the sun's warmth and light from a distance, but cannot embrace it back without burning themselves raw.",
+        "stakes": "Burning oneself raw if an attempt is made to embrace the sun back.",
+        "key_events": [
+            "Watching the sun's magnificent beauty from afar.",
+            "Staring at the sun and allowing its warmth and light to wrap around gently, kindly, and lovingly.",
+            "Realizing that one can only watch the sun and cannot embrace it back without burning raw."
+        ],
+        "turning_points": [
+            "The realization/statement that one cannot embrace the sun back without burning raw."
+        ],
+        "revelation": "You can only watch the sun; embracing it back will burn you raw.",
+        "resolution": null,
+        "tone": "Reflective and bittersweet"
+    },
+    "structure": {
+        "hook": {
+            "purpose": "Establish the premise that observing the sun's magnificent beauty requires distance.",
+            "event": "To watch the sun's magnificent beauty is to watch it from afar.",
+            "reason": "Creates immediate curiosity about why distance is necessary."
+        },
+        "setup": {
+            "purpose": "Describe the initial positive experience of feeling warmth and light.",
+            "events": [
+                "Staring at the sun and allowing its warmth to embrace you gently, kindly, lovingly.",
+                "Allowing its light to wrap around you at each glance."
+            ]
+        },
+        "escalation": [
+            {
+                "event": "Reaching a state where all you can do is stare back at the light.",
+                "purpose": "Build the sensory intimacy before revealing the restriction.",
+                "tension": "The contrast between feeling embraced and only being able to stare back."
+            }
+        ],
+        "turning_point": {
+            "event": "Introducing a critical truth about the sun.",
+            "purpose": "Shift the focus from feeling warmth to understanding the limitation."
+        },
+        "revelation": {
+            "event": "You can only watch and cannot embrace the sun back without burning yourself raw.",
+            "purpose": "Deliver the central truth of the metaphor."
+        },
+        "consequences": {
+            "events": [
+                "Attempting to embrace the sun back results in burning yourself raw."
+            ],
+            "stakes": "Physical/emotional harm if reciprocity is attempted."
+        },
+        "ending": {
+            "event": "The author notes that this is a short poem about unrequited love from personal experience.",
+            "purpose": "Provide the explicit context for the preceding metaphor."
+        },
+        "narrative_order": [
+            "hook",
+            "setup",
+            "escalation",
+            "turning_point",
+            "revelation",
+            "consequences",
+            "ending"
+        ]
+    },
+    "final_script": "To watch the sun’s magnificent beauty is to watch it from afar. Staring at the sun, allowing its warmth to embrace you gently, kindly, lovingly. Allowing its light to wrap around you at each glance, like a gaze where all you can do is stare back. But there is something you must know about the sun. You can only watch. You cannot embrace the sun back without burning yourself raw. This is a short poem about unrequited love from personal experience."
+}
